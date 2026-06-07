@@ -1,7 +1,7 @@
 # Всем привет! Я AI-разработчик 👋 🚀
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sylyyewsylyyew5&show_icons=true&theme=github-dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=sylyyewsylyyew5&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 Я программист и создатель собственного искусственного интеллекта. Специализируюсь на проектировании интеллектуальных систем, нейросетевых интерфейсов и кроссплатформенных мобильных приложений.
