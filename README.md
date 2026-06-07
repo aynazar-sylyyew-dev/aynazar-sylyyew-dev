@@ -24,14 +24,18 @@
 
 
 | Категория | Стек технологий |
-| :--- | :--- |
-| **Languages** | <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Go" /> <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> |
-| **Mobile Dev** | <img src="https://shields.io" alt="React Native" /> <img src="https://shields.io" alt="Expo" /> <img src="https://shields.io" alt="Android" /> <img src="https://shields.io" alt="iOS" /> |
-| **Backend & AI Core** | <img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt="Express" /> <img src="https://shields.io" alt="FastAPI" /> <img src="https://shields.io" alt="OpenAI" /> |
-| **State & Data** | <img src="https://shields.io" alt="Redux Toolkit" /> <img src="https://shields.io" alt="Zustand" /> <img src="https://shields.io" alt="Axios" /> |
-| **Databases** | <img src="https://shields.io" alt="MongoDB" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="Redis" /> |
-| **DevOps & Tools** | <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="NPM" /> <img src="https://shields.io" alt="Render" /> |
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ---
 
 ### 📊 О моих проектах
