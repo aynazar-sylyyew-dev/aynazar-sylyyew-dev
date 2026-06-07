@@ -49,7 +49,7 @@
 ### 📈 GitHub Статистика
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sylyyewsylyyew5&show_icons=true&theme=github-dark" alt="GitHub Stats" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sylyyewsylyyew5&theme=github_dark" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylyyewsylyyew5&layout=compact&theme=github-dark" alt="Top Langs" height="180px" />
 </p>
 ---
