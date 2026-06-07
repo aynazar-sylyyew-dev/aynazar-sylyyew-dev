@@ -25,13 +25,12 @@
 
 | Категория | Стек технологий |
 | :--- | :--- |
-| **Languages** | ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io) ![Go](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
-| **Mobile Dev** | ![React Native](https://shields.io) ![Expo](https://shields.io) ![Android](https://shields.io) ![iOS](https://shields.io) |
-| **Backend & AI Core** | ![Node.js](https://shields.io) ![Express](https://shields.io) ![FastAPI](https://shields.io) ![OpenAI](https://shields.io) |
-| **State & Data** | ![Redux Toolkit](https://shields.io) ![Zustand](https://shields.io) ![Axios](https://shields.io) |
-| **Databases** | ![MongoDB](https://shields.io) ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) |
-| **DevOps & Tools** | ![Git](https://shields.io) ![GitHub](https://shields.io)
-
+| **Languages** | <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Go" /> <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> |
+| **Mobile Dev** | <img src="https://shields.io" alt="React Native" /> <img src="https://shields.io" alt="Expo" /> <img src="https://shields.io" alt="Android" /> <img src="https://shields.io" alt="iOS" /> |
+| **Backend & AI Core** | <img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt="Express" /> <img src="https://shields.io" alt="FastAPI" /> <img src="https://shields.io" alt="OpenAI" /> |
+| **State & Data** | <img src="https://shields.io" alt="Redux Toolkit" /> <img src="https://shields.io" alt="Zustand" /> <img src="https://shields.io" alt="Axios" /> |
+| **Databases** | <img src="https://shields.io" alt="MongoDB" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="Redis" /> |
+| **DevOps & Tools** | <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="NPM" /> <img src="https://shields.io" alt="Render" /> |
 
 ---
 
