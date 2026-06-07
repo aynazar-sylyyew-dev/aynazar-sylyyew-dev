@@ -48,9 +48,11 @@
 
 ### 📈 GitHub Статистика
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sylyyewsylyyew5&theme=github_dark" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylyyewsylyyew5&layout=compact&theme=github-dark" alt="Top Langs" height="180px" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sylyyewsylyyew5&theme=github_dark" alt="Profile" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sylyyewsylyyew5&theme=github_dark" alt="Languages" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sylyyewsylyyew5&theme=github_dark" alt="Commits" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sylyyewsylyyew5&theme=github_dark" alt="Stats" height="180px" />
 </p>
 ---
 
