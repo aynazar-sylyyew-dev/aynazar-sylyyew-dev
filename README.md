@@ -27,10 +27,10 @@
 | :--- | :--- |
 | **Languages** | ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io) ![Go](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
 | **Mobile Dev** | ![React Native](https://shields.io) ![Expo](https://shields.io) ![Android](https://shields.io) ![iOS](https://shields.io) |
-| **Backend & AI Core** | ![Node.js](https://shields.io) ![Express](https://shields.io) ![FastAPI](https://shields.io) ![OpenAI](https://shields.io) ![LangChain](https://shields.io) |
+| **Backend & AI Core** | ![Node.js](https://shields.io) ![Express](https://shields.io) ![FastAPI](https://shields.io) ![OpenAI](https://shields.io) |
 | **State & Data** | ![Redux Toolkit](https://shields.io) ![Zustand](https://shields.io) ![Axios](https://shields.io) |
 | **Databases** | ![MongoDB](https://shields.io) ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) |
-| **DevOps & Tools** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![Docker](https://shields.io) ![NPM](https://shields.io) ![Render](https://shields.io) |
+| **DevOps & Tools** | ![Git](https://shields.io) ![GitHub](https://shields.io)
 
 
 ---
