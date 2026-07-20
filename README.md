@@ -36,18 +36,18 @@ I am a programmer and the creator of my own artificial intelligence. I specializ
 
 ### My Favorite Singer's
 <details>
-  <summary><b>My Favorites</b></summary>
+  <summary><b>My Favorites singer's</b></summary>
   <br>
   <table border="0">
     <tr>
       <td><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/Tupac.jpg" width="200" alt="Фото 1"></td>
-      <td><img src="ССЫЛКА_НА_ФОТО_2" width="200" alt="Фото 2"></td>
-      <td><img src="ССЫЛКА_НА_ФОТО_3" width="200" alt="Фото 3"></td>
+      <td><img src=""https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/big smals.jpg"" width="200" alt="Фото 2"></td>
+      <td><img src=""https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/hip hop legends.jpg"" width="200" alt="Фото 3"></td>
     </tr>
     <tr>
-      <td><img src="ССЫЛКА_НА_ФОТО_4" width="200" alt="Фото 4"></td>
-      <td><img src="ССЫЛКА_НА_ФОТО_5" width="200" alt="Фото 5"></td>
-      <td><img src="ССЫЛКА_НА_ФОТО_6" width="200" alt="Фото 6"></td>
+      <td><img src=""https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/last legends.jpg"" width="200" alt="Фото 4"></td>
+      <td><img src=""https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/snoop dog and tupac.jpg"" width="200" alt="Фото 5"></td>
+      <td><img src=""https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/west cost.jpg"" width="200" alt="Фото 6"></td>
     </tr>
   </table>
 </details>
