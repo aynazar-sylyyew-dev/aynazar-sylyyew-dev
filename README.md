@@ -1,9 +1,5 @@
 # Hi everyone! I'm an AI Developer 👋 🚀
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=sylyyewsylyyew5&theme=github-dark" alt="GitHub Streak" />
-</p>
-
 I am a programmer and the creator of my own artificial intelligence. I specialize in designing intelligent systems, neural network interfaces, and cross-platform mobile applications.
 
 ---
