@@ -39,6 +39,23 @@ I am a programmer and the creator of my own artificial intelligence. I specializ
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sylyyewsylyyew5&theme=github_dark" alt="Profile" height="180px" /> 
 </p>
+### My Favorite Singer's
+<details>
+  <summary><b>My Favorites</b></summary>
+  <br>
+  <table border="0">
+    <tr>
+      <td><img src="[ССЫЛКА_НА_ФОТО_1](https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/Tupac.jpg)" width="200" alt="Фото 1"></td>
+      <td><img src="ССЫЛКА_НА_ФОТО_2" width="200" alt="Фото 2"></td>
+      <td><img src="ССЫЛКА_НА_ФОТО_3" width="200" alt="Фото 3"></td>
+    </tr>
+    <tr>
+      <td><img src="ССЫЛКА_НА_ФОТО_4" width="200" alt="Фото 4"></td>
+      <td><img src="ССЫЛКА_НА_ФОТО_5" width="200" alt="Фото 5"></td>
+      <td><img src="ССЫЛКА_НА_ФОТО_6" width="200" alt="Фото 6"></td>
+    </tr>
+  </table>
+</details>
 
 ---
 
