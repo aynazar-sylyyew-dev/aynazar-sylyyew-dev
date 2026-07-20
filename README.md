@@ -37,10 +37,8 @@ I am a programmer and the creator of my own artificial intelligence. I specializ
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sylyyewsylyyew5&theme=github_dark" alt="Profile" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sylyyewsylyyew5&theme=github_dark" alt="Profile" height="180px" /> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sylyyewsylyyew5&theme=github_dark" alt="Languages" height="180px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sylyyewsylyyew5&theme=github_dark" alt="Commits" height="180px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sylyyewsylyyew5&theme=github_dark" alt="Stats" height="180px" />
 </p>
 
 ---
