@@ -4,18 +4,6 @@ I am a Software Engineer specializing in high-performance Android development an
 
 ---
 
-### 🧠 My Flagship Project
-
-<details open>
-  <summary><b>Click to learn more</b></summary>
-  <br>
-  
-  * **[sy-ai-chat](https://github.com)** — My custom-built, next-generation AI chatbot ecosystem. Engineered for rapid routine automation, dynamic content generation, and intelligent data analysis.
-  * 🌐 **Try the AI in action:** [sy-ai-chat-tuka.onrender.com](https://sy-ai-chat-tuka.onrender.com)
-</details>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
