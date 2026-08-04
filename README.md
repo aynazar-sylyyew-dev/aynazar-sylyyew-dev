@@ -1,5 +1,6 @@
-# Hi everyone! I'm an Android & AI Systems Developer 👋 🚀
-I am a Software Engineer specializing in high-performance Android development and AI ecosystem design. I architect smooth, native-grade mobile experiences and intelligent systems using React Native, TypeScript, and Dart flutter, JavaScript.
+# Hi everyone! I'm an Android & Web Developer 👋 🚀
+
+I am a Software Engineer specializing in high-performance Android and Web development. I architect smooth, native-grade mobile applications using **Kotlin** and **Flutter**, alongside scalable, dynamic web and cross-platform experiences utilizing **React Native**, **TypeScript**, and **JavaScript**. I am passionate about building robust, type-safe codebases and delivering seamless user experiences across multiple platforms.
 
 ---
 
@@ -7,7 +8,7 @@ I am a Software Engineer specializing in high-performance Android development an
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
+| **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
 | **Android & Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) |
 | **Backend & Database** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
 
@@ -15,9 +16,10 @@ I am a Software Engineer specializing in high-performance Android development an
 
 ### 📊 About My Projects
 
-* 🤖 **AI Integration:** I build feature-rich Android applications with deep, low-latency neural network integration.
-* ⚡ **Performance First:** I focus heavily on Android rendering optimization, memory management, and clean architecture.
-* 🚀 **Continuous Evolution:** I constantly refine and scale the architecture of my proprietary AI systems.
+* 📱 **Native & Cross-Platform Mobile:** I build feature-rich, high-performance Android applications using **Kotlin** and **Flutter**, focusing on smooth rendering, memory management, and intuitive UI/UX.
+* 🌐 **Modern Web & Hybrid Apps:** I craft scalable, responsive web experiences and hybrid applications using modern ecosystems like **React Native**, **React**, and **Angular**.
+* ⚡ **Performance & Architecture:** I prioritize clean architecture and type-safe code (via **TypeScript** and **Kotlin**) to ensure robust, maintainable, and highly optimized applications.
+* 🚀 **Continuous Evolution:** I constantly refine my skills and scale the architecture of my projects to leverage the latest industry standards in mobile and web engineering.
 
 ---
 
@@ -44,5 +46,5 @@ I am a Software Engineer specializing in high-performance Android development an
 
 ### 🤝 Let's Collaborate!
 
-* 💻 I write clean, type-safe code in **TypeScript** to build scalable Android applications.
-* 🚀 I am always open to exciting opportunities at the intersection of **Artificial Intelligence** and **Mobile Engineering**.
+* 💻 I write clean, type-safe code in **TypeScript** and **Kotlin** to build scalable Android and Web applications.
+* 🚀 I am always open to exciting opportunities at the intersection of **Mobile Engineering** and **Modern Web Development**.
