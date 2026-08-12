@@ -1,19 +1,13 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     ANIMATED HEADER                             -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:7F52FF,65:61DAFB,100:0d0221&height=280&section=header&text=AYNAZAR&fontSize=96&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20-%20Android%20and%20Web%20Developer&descFontSize=20&descAlign=50&descAlignY=60&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:7F52FF,65:61DAFB,100:0d0221&height=280&section=header&text=AYNAZAR&fontSize=96&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Android%20%26%20Web%20Developer&descFontSize=20&descAlign=50&descAlignY=60&animation=fadeIn" />
-
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=900&color=7F52FF&center=true&vCenter=true&width=700&height=60&lines=%E2%96%B8+Android+%26+Web+Engineer+%F0%9F%9A%80;%E2%96%B8+Kotlin+%7C+Flutter+%7C+React+Native+Expert;%E2%96%B8+Low-Level+Performance+Optimizer+%E2%9A%A1;%E2%96%B8+Type-Safe+%26+Clean+Architecture+%F0%9F%94%A7;%E2%96%B8+Building+Native-Grade+Experiences+%F0%9F%8E%AF;%E2%96%B8+Passionate+About+Every+Pixel+%26+Byte" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- STATUS BADGES -->
 <img src="https://komarev.com/ghpvc/?username=aynazar-sylyyew-dev&style=for-the-badge&color=7F52FF&labelColor=0d0221&label=PROFILE+VIEWS" />
 &nbsp;
 <a href="https://github.com/aynazar-sylyyew-dev?tab=followers">
@@ -74,6 +68,8 @@ I architect smooth, **native-grade mobile applications** using **Kotlin**, **C++
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=flutter,react,angular,tailwind&perline=4&theme=dark" />
       </a>
+      <br/>
+      <img src="https://cdn.simpleicons.org/expo/61DAFB" width="48" height="48" alt="Expo" />
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
@@ -116,11 +112,15 @@ I architect smooth, **native-grade mobile applications** using **Kotlin**, **C++
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Milestones
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aynazar-sylyyew-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://img.shields.io/github/stars/aynazar-sylyyew-dev?style=for-the-badge&logo=github&color=7F52FF&labelColor=0d0221&label=STARS" />
+&nbsp;
+<img src="https://img.shields.io/github/forks/aynazar-sylyyew-dev?style=for-the-badge&logo=github&color=61DAFB&labelColor=0d0221&label=FORKS" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=aynazar-sylyyew-dev&style=for-the-badge&color=00D26A&labelColor=0d0221&label=TOTAL+VIEWS" />
 
 </div>
 
@@ -134,7 +134,7 @@ I architect smooth, **native-grade mobile applications** using **Kotlin**, **C++
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aynazar-sylyyew-dev&theme=tokyo-night&bg_color=0D1117&color=7F52FF&line=61DAFB&point=FFFFFF&area=true&area_color=7F52FF&hide_border=true&custom_title=Aynazar%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aynazar-sylyyew-dev&theme=tokyo-night&bg_color=0D1117&color=7F52FF&line=61DAFB&point=FFFFFF&area=true&area_color=7F52FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -182,14 +182,14 @@ I architect smooth, **native-grade mobile applications** using **Kotlin**, **C++
   <br/>
   <table border="0" align="center">
     <tr>
-      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/Tupac.jpg" width="200" alt="Tupac"/></td>
-      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/big_smals.jpg" width="200" alt="Biggie Smalls"/></td>
-      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/hip_hop_legends.jpg" width="200" alt="Hip Hop Legends"/></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/Tupac.jpg" width="200" alt="Tupac"/></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/big_smals.jpg" width="200" alt="Biggie Smalls"/></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/hip_hop_legends.jpg" width="200" alt="Hip Hop Legends"/></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/last_legends.jpg" width="200" alt="Legends"/></td>
-      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/snoop_dog_and_tupac.jpg" width="200" alt="Snoop & Tupac"/></td>
-      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/west_coast.jpg" width="200" alt="West Coast"/></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/last_legends.jpg" width="200" alt="Legends"/></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/snoop_dog_and_tupac.jpg" width="200" alt="Snoop & Tupac"/></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/west_coast.jpg" width="200" alt="West Coast"/></td>
     </tr>
   </table>
 </details>
@@ -215,14 +215,10 @@ I architect smooth, **native-grade mobile applications** using **Kotlin**, **C++
 
 <br/><br/>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=720&height=40&lines=Clean+code.+Type-safe+architecture.+Let's+build+together!" alt="Collab Typing" />
 
 </div>
 
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                       ANIMATED FOOTER                           -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:7F52FF,65:61DAFB,100:0d0221&height=130&section=footer" />
