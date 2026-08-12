@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:7F52FF,65:61DAFB,100:0d0221&height=280&section=header&text=AYNAZAR&fontSize=96&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20-%20Android%20and%20Web%20Developer&descFontSize=20&descAlign=50&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:7F52FF,65:61DAFB,100:0d0221&height=280&section=header&text=AÝNAZAR&fontSize=96&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20-%20Android%20and%20Web%20Developer&descFontSize=20&descAlign=50&descAlignY=60&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=900&color=7F52FF&center=true&vCenter=true&width=700&height=60&lines=%E2%96%B8+Android+%26+Web+Engineer+%F0%9F%9A%80;%E2%96%B8+Kotlin+%7C+Flutter+%7C+React+Native+Expert;%E2%96%B8+Low-Level+Performance+Optimizer+%E2%9A%A1;%E2%96%B8+Type-Safe+%26+Clean+Architecture+%F0%9F%94%A7;%E2%96%B8+Building+Native-Grade+Experiences+%F0%9F%8E%AF;%E2%96%B8+Passionate+About+Every+Pixel+%26+Byte" alt="Typing SVG" />
@@ -27,7 +27,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
 
 ```kotlin
-object Aynazar {
+object Aýnazar {
     val role       = "Software Engineer"
     val platforms  = listOf("Android", "Web", "Cross-Platform")
     val stack      = listOf("Kotlin", "C++", "Flutter", "React Native", "TypeScript")
