@@ -96,13 +96,13 @@ I architect smooth, **native-grade mobile applications** using **Kotlin**, **C++
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aynazar-sylyyew-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=61DAFB&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynazar-sylyyew-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=FFFFFF&langs_count=8" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aynazar-sylyyew-dev&theme=tokyonight" />
+&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aynazar-sylyyew-dev&theme=tokyonight" />
 
 <br/><br/>
 
-<img width="96%" src="https://streak-stats.demolab.com?user=aynazar-sylyyew-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=7F52FF&fire=61DAFB&currStreakLabel=7F52FF&sideLabels=FFFFFF&dates=8B8B8B&stroke=7F52FF50" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aynazar-sylyyew-dev&theme=tokyonight" />
 
 </div>
 
@@ -118,7 +118,7 @@ I architect smooth, **native-grade mobile applications** using **Kotlin**, **C++
 
 <img src="https://img.shields.io/github/stars/aynazar-sylyyew-dev?style=for-the-badge&logo=github&color=7F52FF&labelColor=0d0221&label=STARS" />
 &nbsp;
-<img src="https://img.shields.io/github/forks/aynazar-sylyyew-dev?style=for-the-badge&logo=github&color=61DAFB&labelColor=0d0221&label=FORKS" />
+<img src="https://img.shields.io/github/last-commit/aynazar-sylyyew-dev/aynazar-sylyyew-dev?style=for-the-badge&logo=github&color=61DAFB&labelColor=0d0221&label=LAST+COMMIT" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=aynazar-sylyyew-dev&style=for-the-badge&color=00D26A&labelColor=0d0221&label=TOTAL+VIEWS" />
 
