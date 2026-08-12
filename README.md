@@ -1,123 +1,228 @@
-<!-- ═══════════ ANIMATED HEADER ═══════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:007ACC,100:3DDC84&height=240&section=header&text=Hi%20everyone!%20I'm%20an%20Android%20%26%20Web%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Flutter%20%E2%80%A2%20React%20Native%20%E2%80%A2%20TypeScript&descAlignY=62&descColor=ffffff" width="100%" alt="Header"/>
-</p>
+<div align="center">
 
-<!-- ═══════════ TYPING ANIMATION ═══════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=7F52FF&center=true&vCenter=true&width=900&height=70&lines=I+architect+smooth,+native-grade+mobile+apps;Scalable,+dynamic+web+%26+cross-platform+apps;Kotlin+%7C+C%2B%2B+%7C+Flutter+%7C+Dart;React+Native+%7C+TypeScript+%7C+JavaScript;Low-level+optimizations+%7C+Type-safe+code" alt="Typing SVG"/>
-</p>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                     ANIMATED HEADER                             -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="Wave"/>
-  <i>I am a Software Engineer specializing in high-performance Android and Web development. I architect smooth, native-grade mobile applications using Kotlin, C++, and Flutter, alongside scalable, dynamic web and cross-platform experiences utilizing React Native, TypeScript, and JavaScript. I am passionate about low-level optimizations, building robust, type-safe codebases, and delivering seamless user experiences across multiple platforms.</i>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:7F52FF,65:61DAFB,100:0d0221&height=280&section=header&text=AYNAZAR&fontSize=96&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Android%20%26%20Web%20Developer&descFontSize=20&descAlign=50&descAlignY=60&animation=fadeIn" />
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=900&color=7F52FF&center=true&vCenter=true&width=700&height=60&lines=%E2%96%B8+Android+%26+Web+Engineer+%F0%9F%9A%80;%E2%96%B8+Kotlin+%7C+Flutter+%7C+React+Native+Expert;%E2%96%B8+Low-Level+Performance+Optimizer+%E2%9A%A1;%E2%96%B8+Type-Safe+%26+Clean+Architecture+%F0%9F%94%A7;%E2%96%B8+Building+Native-Grade+Experiences+%F0%9F%8E%AF;%E2%96%B8+Passionate+About+Every+Pixel+%26+Byte" alt="Typing SVG" />
+</a>
 
-<!-- ═══════════ TECH STACK ═══════════ -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" alt="Tools"/>
-  Tech Stack & Tools
-</h3>
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,cpp,cmake,dart,js,ts,html,css&theme=dark" alt="Languages"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=androidstudio,gradle,react,flutter,angular,expo,tailwind&theme=dark" alt="Android & Frontend"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,postgres&theme=dark" alt="Backend & Database"/>
-</p>
+<!-- STATUS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=aynazar-sylyyew-dev&style=for-the-badge&color=7F52FF&labelColor=0d0221&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://github.com/aynazar-sylyyew-dev?tab=followers">
+  <img src="https://img.shields.io/github/followers/aynazar-sylyyew-dev?style=for-the-badge&logo=github&color=61DAFB&labelColor=0d0221&label=FOLLOWERS" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-%2300D26A?style=for-the-badge&labelColor=0d0221" />
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge) ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) |
-| **Android & Frontend** | ![Android NDK](https://img.shields.io/badge/Android_NDK-3DDC84?logo=android&logoColor=white&style=for-the-badge) ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge) ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge) |
-| **Backend & Database** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge) |
+</div>
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
+<br/>
 
-<!-- ═══════════ ABOUT MY PROJECTS ═══════════ -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="32" alt="Gear"/>
-  About My Projects
-</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
+
+```kotlin
+object Aynazar {
+    val role       = "Software Engineer"
+    val platforms  = listOf("Android", "Web", "Cross-Platform")
+    val stack      = listOf("Kotlin", "C++", "Flutter", "React Native", "TypeScript")
+    val passion    = "Low-level optimizations & type-safe architectures"
+    val currently  = "Architecting high-performance mobile & web apps"
+    val status     = "🚀 Always building something awesome"
+}
+```
+
+I architect smooth, **native-grade mobile applications** using **Kotlin**, **C++**, and **Flutter**, alongside scalable, dynamic web and cross-platform experiences utilizing **React Native**, **TypeScript**, and **JavaScript**. Passionate about low-level optimizations, robust type-safe codebases, and seamless user experiences across every platform.
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
+
 <table>
+<thead>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="55" alt="Mobile"/>
-      <br><b>📱 Native & Cross-Platform Mobile</b>
-      <br>I build feature-rich, high-performance Android applications using <b>Kotlin</b> and <b>Flutter</b>, focusing on smooth rendering, memory management, and intuitive UI/UX.
+    <th>🗣️ Languages</th>
+    <th>📱 Mobile & Frontend</th>
+    <th>⚙️ Backend & Build</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=kotlin,dart,cpp,py,ts,js,html,css&perline=4&theme=dark" />
+      </a>
     </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="55" alt="Web"/>
-      <br><b>🌐 Modern Web & Hybrid Apps</b>
-      <br>I craft scalable, responsive web experiences and hybrid applications using modern ecosystems like <b>React Native</b>, <b>React</b>, and <b>Angular</b>.
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,react,angular,tailwind&perline=4&theme=dark" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,flask,postgres,gradle&perline=4&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br/>
+
+> 🔩 Also: **Android NDK** &nbsp;•&nbsp; **CMake** &nbsp;•&nbsp; **Expo** &nbsp;•&nbsp; **React Native** (Expo)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aynazar-sylyyew-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=61DAFB&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynazar-sylyyew-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=FFFFFF&langs_count=8" />
+
+<br/><br/>
+
+<img width="96%" src="https://streak-stats.demolab.com?user=aynazar-sylyyew-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=7F52FF&fire=61DAFB&currStreakLabel=7F52FF&sideLabels=FFFFFF&dates=8B8B8B&stroke=7F52FF50" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=aynazar-sylyyew-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aynazar-sylyyew-dev&theme=tokyo-night&bg_color=0D1117&color=7F52FF&line=61DAFB&point=FFFFFF&area=true&area_color=7F52FF&hide_border=true&custom_title=Aynazar%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## 🎯 What I Build
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Native & Cross-Platform Mobile</h3>
+      <p>Feature-rich, high-performance Android applications using <strong>Kotlin</strong> and <strong>Flutter</strong> — focused on smooth rendering, memory management, and intuitive UI/UX.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Modern Web & Hybrid Apps</h3>
+      <p>Scalable, responsive web experiences and hybrid applications using <strong>React Native</strong>, <strong>React</strong>, and <strong>Angular</strong> with cutting-edge modern tooling.</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="55" alt="Perf"/>
-      <br><b>⚡ Performance & Architecture</b>
-      <br>I prioritize clean architecture and type-safe code (via <b>TypeScript</b> and <b>Kotlin</b>) to ensure robust, maintainable, and highly optimized applications.
+    <td width="50%" valign="top">
+      <h3>⚡ Performance & Architecture</h3>
+      <p>Clean architecture and type-safe code via <strong>TypeScript</strong> and <strong>Kotlin</strong> — ensuring robust, maintainable, and highly optimized applications at every level.</p>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="55" alt="Rocket"/>
-      <br><b>🚀 Continuous Evolution</b>
-      <br>I constantly refine my skills and scale the architecture of my projects to leverage the latest industry standards in mobile and web engineering.
+    <td width="50%" valign="top">
+      <h3>🚀 Continuous Evolution</h3>
+      <p>Constantly refining skills and scaling architecture to leverage the latest industry standards in mobile and web engineering.</p>
     </td>
   </tr>
 </table>
-</div>
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
+<br/>
 
-<!-- ═══════════ FAVORITE SINGERS ═══════════ -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="32" alt="Music"/>
-  My Favorite Singers
-</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## 🎵 My Favorite Singers
 
 <details>
-  <summary><b>🎤 View Favorites</b></summary>
-  <br>
-  <table border="0">
+  <summary><b>🎤 Click to Reveal My Playlist 🔊</b></summary>
+  <br/>
+  <table border="0" align="center">
     <tr>
-      <td><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/Tupac.jpg" width="200" alt="Foto 1"></td>
-      <td><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/big_smals.jpg" width="200" alt="Foto 2"></td>
-      <td><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/hip_hop_legends.jpg" width="200" alt="Foto 3"></td>
+      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/Tupac.jpg" width="200" alt="Tupac"/></td>
+      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/big_smals.jpg" width="200" alt="Biggie Smalls"/></td>
+      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/hip_hop_legends.jpg" width="200" alt="Hip Hop Legends"/></td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/last_legends.jpg" width="200" alt="Foto 4"></td>
-      <td><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/snoop_dog_and_tupac.jpg" width="200" alt="Foto 5"></td>
-      <td><img src="https://raw.githubusercontent.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/main/west_coast.jpg" width="200" alt="Foto 6"></td>
+      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/last_legends.jpg" width="200" alt="Legends"/></td>
+      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/snoop_dog_and_tupac.jpg" width="200" alt="Snoop & Tupac"/></td>
+      <td align="center"><img src="https://github.com/aynazar-sylyyew-dev/aynazar-sylyyew-dev/blob/main/west_coast.jpg" width="200" alt="West Coast"/></td>
     </tr>
   </table>
 </details>
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
+<br/>
 
-<!-- ═══════════ COLLABORATE ═══════════ -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" alt="Handshake"/>
-  Let's Collaborate!
-</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" alt="Laptop"/>
-  💻 I write clean, type-safe code in <b>TypeScript</b> and <b>Kotlin</b> to build scalable Android and Web applications.
-  <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt="Rocket"/>
-  🚀 I am always open to exciting opportunities at the intersection of <b>Mobile Engineering</b> and <b>Modern Web Development</b>.
-</p>
+<br/>
 
-<!-- ═══════════ ANIMATED FOOTER ═══════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:007ACC,100:3DDC84&height=140&section=footer&reversal=true" width="100%" alt="Footer"/>
-</p>
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+<a href="https://github.com/aynazar-sylyyew-dev">
+  <img src="https://img.shields.io/badge/GitHub-aynazar--sylyyew--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+💻 &nbsp;Clean, type-safe code in **TypeScript** and **Kotlin** — scalable Android & Web applications.  
+🚀 &nbsp;Always open to exciting opportunities at the intersection of **Mobile Engineering** and **Modern Web Development**.
+
+<br/><br/>
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                       ANIMATED FOOTER                           -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:7F52FF,65:61DAFB,100:0d0221&height=130&section=footer" />
