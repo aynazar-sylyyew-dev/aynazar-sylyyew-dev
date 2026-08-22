@@ -49,7 +49,7 @@ I architect smooth, **native-grade mobile applications** using **Kotlin**, **C++
 
 <div align="center">
 
-<table> <thead> <tr> <th>🗣️ Languages</th> <th>📱 Mobile & Frontend</th> <th>⚙️ Backend & Build</th> </tr> </thead> <tbody> <tr> <td align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=kotlin,dart,cpp,py,ts,js,html,css,asm&perline=4&theme=dark" /> </a> </td> <td align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flutter,react,angular,tailwind&perline=4&theme=dark" /> </a> <br/> <img src="https://cdn.simpleicons.org/expo/61DAFB" width="48" height="48" alt="Expo" /> </td> <td align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,flask,postgres,gradle&perline=4&theme=dark" /> </a> </td> </tr> </tbody> </table>
+<table> <thead> <tr> <th>🗣️ Languages</th> <th>📱 Mobile & Frontend</th> <th>⚙️ Backend & Build</th> </tr> </thead> <tbody> <tr> <td align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=kotlin,dart,cpp,py,ts,js,html,css&perline=4&theme=dark" /> </a> </td> <td align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flutter,react,angular,tailwind&perline=4&theme=dark" /> </a> <br/> <img src="https://cdn.simpleicons.org/expo/61DAFB" width="48" height="48" alt="Expo" /> </td> <td align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,flask,postgres,gradle&perline=4&theme=dark" /> </a> </td> </tr> </tbody> </table>
 
 <br/>
 
