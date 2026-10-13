@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aynazar-sylyyew-dev&style=for-the-badge&color=7F52FF&labelColor=0d0221&label=PROFILE+VIEWS" />
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
 &nbsp;
 <a href="https://github.com/aynazar-sylyyew-dev?tab=followers">
   <img src="https://img.shields.io/github/followers/aynazar-sylyyew-dev?style=for-the-badge&logo=github&color=61DAFB&labelColor=0d0221&label=FOLLOWERS" />
